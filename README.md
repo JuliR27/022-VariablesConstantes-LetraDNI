@@ -6,4 +6,4 @@ LetoaDNIConstante que defna una constante de tipo caoácteo llamada LETRA_DNI, l
 asigne la letra correspondiente a un NIF arbitrario y fnalmente la muestre por pantalla en
 el formato
 
-Letra DNI ...: <letra>.
+Letra DNI ...: "letra".
